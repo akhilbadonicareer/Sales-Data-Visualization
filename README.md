@@ -44,4 +44,5 @@ Supports targeted marketing and sales campaigns through detailed customer insigh
 Provides actionable intelligence for sales strategy and resource allocation.
 
 5.Screenshot
-https://github.com/akhilbadonicareer/Sales-Data-Visualization/blob/main/Screenshot%202025-10-05%20003519.png
+![image alt](https://github.com/akhilbadonicareer/Sales-Data-Visualization/blob/main/Screenshot%202025-10-05%20003519.png)
+
